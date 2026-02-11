@@ -204,7 +204,7 @@ ul { list-style: none; }
 .split_layout { display: flex; align-items: center; gap: 60px; }
 .about_img_wrapper { flex: 1; }
 .img_placeholder {
-    width: 100%; aspect-ratio: 4/5; background: #ddd; border-radius: 20px;
+    width: 80%; aspect-ratio: 4/6; background: #ddd; border-radius: 20px;
     display: flex; align-items: center; justify-content: center; font-weight: bold; color: white;
     background-size: cover;
     background-position: center;
